@@ -1,2 +1,1 @@
-# PreCourse-Henry
-repositorio de prueba y estudio con Henry
+prueba de como crear un repositorio y clonarlo con Github
